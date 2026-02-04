@@ -7,9 +7,7 @@ def add_gst(amount):
     total = amount + tax
     print(f"Original: {amount} | Tax: {tax} | Final Total: {total}")
 
-print("Calculating bill for Laptop...")
-add_gst(50000)
-
-print("\nCalculating bill for Phone...")
-add_gst(15000)
+bill=int(input("please enter your bill amount:"))
+print("your bill with GST is as follows")
+add_gst(bill)
 
