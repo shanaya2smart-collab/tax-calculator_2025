@@ -1,4 +1,4 @@
-#  GST Tax Calculator
+#  GST Tax Calculator :(Created by Shanaya Manchanda | Aspiring Aerospace Engineer | Python Developer)
 
 ##  Project Overview
 A Python-based financial tool designed to automate Goods and Services Tax (GST) calculations. This program takes a raw amount as input and generates a detailed billing breakdown, separating the base cost from the tax component.
